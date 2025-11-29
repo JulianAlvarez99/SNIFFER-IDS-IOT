@@ -10,3 +10,5 @@ pyarrow
 imbalanced-learn
 tensorflow
 keras-tcn
+joblib
+keras-tcn
